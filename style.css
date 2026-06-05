@@ -149,3 +149,43 @@ body {
     margin-top: 16px;
     font-size: 20px !important;
 }
+.action {
+    background-color: #F9FAF8;
+    padding: 100px 160px;
+}
+
+.action-content {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 150px;
+    border-radius: 12px;
+    color: #F9FAF8;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.action-content h1 {
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 8px;
+    
+}
+
+.action-content p {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.signup-button2 {
+    background-color: transparent;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    padding: 8px 32px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    white-space: nowrap;
+}
