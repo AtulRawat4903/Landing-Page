@@ -81,3 +81,45 @@ body {
     object-fit: cover;
     display: block;
 }
+
+.information {
+    margin-bottom: 150px;
+}
+
+.information h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    padding: 20px;
+    margin: 20px;
+}
+
+.info-content {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+}
+
+.info-content img {
+    display: block;
+    object-fit: cover;
+    height: 200px;
+    width: 160px;
+    border: 5px solid #3882F6;
+    border-radius: 8px;
+}
+
+.info-content div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info-content p {
+    text-align: center;
+    width: 150px;
+    margin-top: 8px;
+    font-size: 16px;
+}
