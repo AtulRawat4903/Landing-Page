@@ -189,3 +189,10 @@ body {
     cursor: pointer;
     white-space: nowrap;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 40px 50px;
+}
