@@ -1,4 +1,4 @@
-# Dog Lovers Landing Page
+# Landing Page
 
 A simple landing page built as part of The Odin Project Foundations curriculum.
 
